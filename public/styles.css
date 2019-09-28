@@ -45,6 +45,10 @@ body {
   justify-content: space-between;
 }
 
+.message-item{
+  text-align: center;
+}
+
 @keyframes fade {
   from {
     opacity: 0;
